@@ -1,5 +1,3 @@
-$(document).ready(function()
-{
 /*initially texting part is inside*/
 var textingWidth=-($(".texting").width());
 $(".SlidingPart").css("left",textingWidth);
@@ -403,5 +401,3 @@ $("#openexitIcon").click(
     }
     );
 /**/
-}
-);
